@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+modellen/
+Data/risicolijst*.csv
+Data/handmatig_controleren.csv
