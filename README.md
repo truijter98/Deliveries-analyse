@@ -68,3 +68,5 @@ Four times a single number nearly led me to the wrong conclusion: a percentage
 without its sample size, a model comparison based on one split, a cost difference
 inside the noise margin, and a PR-AUC measured on training data. Cross-validation
 and confidence intervals caught each one.
+
+- `forecast.ipynb` — one-week-ahead forecast of incoming goods: 11.5% error per day, 3.8% per week, backtested over five quarters
